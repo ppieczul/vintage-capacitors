@@ -1,0 +1,1241 @@
+Computer	Schneider	Euro PC II	C300	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C301	4.7uF	63V	motherboard	EL
+Computer	Schneider	Euro PC II	C303	10uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C304	10uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C305	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C306	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C307	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C308	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C309	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C310	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C311	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C312	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C313	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C400	3300uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C401	4700uF	6.3V	motherboard	EL
+Computer	Schneider	Euro PC II	C402	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C403	10uF	25V	motherboard	EL
+Computer	Commodore	Amiga 3000	C5	470uF	200V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C6	470uF	200V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C9	1uF	50V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C10	1uF	50V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C25	220uF	25V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C26	47uF	16V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C27	47uF	16V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C28	3300uF	10V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C29	3300uF	16V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C30	3300uF	10V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C31	220uF	25V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C32	220uF	25V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C38	47uF	16V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C39	47uF	16V	PSU (large board)	EL
+Computer	Commodore	Amiga 3000	C15	1uF	50V	PSU (small board)	EL
+Computer	Commodore	Amiga 3000	C16	4.7uF	50V	PSU (small board)	EL
+Computer	Commodore	Amiga 3000	C34	47uF	16V	PSU (small board)	EL
+Computer	Commodore	Amiga 3000	C105	22uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C107	22uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C112	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C113	22uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C160	470uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C162	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C163	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C164	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C165	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C166	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C167	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C168	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C169	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C171	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C173	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C175	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C178	100uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C190	4.7uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C317	22uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C318	22uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C404	4.7uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C407	470uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C408	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C416	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C423	470uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C433	22uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C443	22uF	35V	motherboard	EL
+Computer	Commodore	Amiga 3000	C454	470uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C460	470uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C492	470uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C493	470uF	16V	motherboard	EL
+Computer	Commodore	Amiga 3000	C899	47uF	16V	motherboard	EL
+Monitor	Schneider	PC14M28	CE201	100uF	10V	analog board	EL
+Monitor	Schneider	PC14M28	CE202	100uF	10V	analog board	EL
+Monitor	Schneider	PC14M28	CE203	100uF	10V	analog board	EL
+Monitor	Schneider	PC14M28	CE204	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE206	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE207	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE208	47uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE216	2.2uF	50V	analog board	EL
+Monitor	Schneider	PC14M28	CE217	2.2uF	50V	analog board	EL
+Monitor	Schneider	PC14M28	CE219	47uF	160V	analog board	EL
+Monitor	Schneider	PC14M28	CE227	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE232	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE302	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE303	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE309	2200uF	16V	analog board	EL
+Monitor	Schneider	PC14M28	CE310	47uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE401	10uF	50V	analog board	EL
+Monitor	Schneider	PC14M28	CE402	10uF	50V	analog board	EL
+Monitor	Schneider	PC14M28	CE405	470uF	6,3V	analog board	EL
+Monitor	Schneider	PC14M28	CE406	1uF	50V	analog board	EL
+Monitor	Schneider	PC14M28	CE411	470uF	16V	analog board	EL
+Monitor	Schneider	PC14M28	CE412	470uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE417	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE425	100uF	160V	analog board	EL
+Monitor	Schneider	PC14M28	CE428	10uF	100V	analog board	EL
+Monitor	Schneider	PC14M28	CE429	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE432	100uF	10V	analog board	EL
+Monitor	Schneider	PC14M28	CE433	470uF	6,3V	analog board	EL
+Monitor	Schneider	PC14M28	CE435	470uF	16V	analog board	EL
+Monitor	Schneider	PC14M28	CE438	4.7uF	50V	analog board	EL
+Monitor	Schneider	PC14M28	CE441	10uF	63V	analog board	EL
+Monitor	Schneider	PC14M28	CE443	1uF	50V	analog board	EL
+Monitor	Schneider	PC14M28	CE444	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE803	10uF	63V	analog board	EL
+Monitor	Schneider	PC14M28	CE804	10uF	50V	analog board	EL
+Monitor	Schneider	PC14M28	CE807	100uF	400V	analog board	EL
+Monitor	Schneider	PC14M28	CE813	330uF	16V	analog board	EL
+Monitor	Schneider	PC14M28	CE819	220uF	160V	analog board	EL
+Monitor	Schneider	PC14M28	CE820	2200uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE821	2200uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE823	100uF	25V	analog board	EL
+Monitor	Schneider	PC14M28	CE831	100uF	10V	analog board	EL
+Monitor	Apple	12" RGB	C203	1uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C205	220uF	100V	analog board	EL
+Monitor	Apple	12" RGB	C206	100uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C207	1uF	160V	analog board	EL
+Monitor	Apple	12" RGB	C2B1	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C2B2	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C2B4	2.2uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C2G1	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C2G2	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C2G4	2.2uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C2R1	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C2R2	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C2R4	2.2uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C6B3	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C6B5	1uF	160V	analog board	EL
+Monitor	Apple	12" RGB	C6G3	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C6G5	1uF	160V	analog board	EL
+Monitor	Apple	12" RGB	C6R3	47uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C6R5	1uF	160V	analog board	EL
+Monitor	Apple	12" RGB	C401	1uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C404	220uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C413	1uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C414	100uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C416	22uF	25V	analog board	BP
+Monitor	Apple	12" RGB	C417	2200uF	35V	analog board	EL
+Monitor	Apple	12" RGB	C418	2200uF	6.3V	analog board	EL
+Monitor	Apple	12" RGB	C501	47uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C502	1uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C507	10uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C512	100uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C517	100uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C518	10uF	160V	analog board	EL
+Monitor	Apple	12" RGB	C519	220uF	25V	analog board	EL
+Monitor	Apple	12" RGB	C520	10uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C521	82uF	160V	analog board	EL
+Monitor	Apple	12" RGB	C522	10uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C523	1uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C525	0.1uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C526	47uF	50V	analog board	EL
+Monitor	Apple	12" RGB	C908	220uF	450V	analog board	EL
+Monitor	Apple	12" RGB	C914	22uF	100V	analog board	EL
+Monitor	Apple	12" RGB	C915	10uF	100V	analog board	EL
+Monitor	Apple	12" RGB	C919	330uF	180V	analog board	EL
+Monitor	Apple	12" RGB	C920	2200uF	35V	analog board	EL
+Monitor	Apple	12" RGB	C921	10uF	100V	analog board	EL
+Monitor	Apple	IIc Monitor	C102	47uF	16V	analog board	BP
+Monitor	Apple	IIc Monitor	C103	100uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C104	10uF	25V	analog board	EL
+Monitor	Apple	IIc Monitor	C105	47uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C107	47uF	16V	analog board	BP
+Monitor	Apple	IIc Monitor	C108	10uF	25V	analog board	BP
+Monitor	Apple	IIc Monitor	C110	10uF	25V	analog board	EL
+Monitor	Apple	IIc Monitor	C111	4.7uF	50V	analog board	EL
+Monitor	Apple	IIc Monitor	C151	10uF	63V	analog board	EL
+Monitor	Apple	IIc Monitor	C405	10uF	25V	analog board	EL
+Monitor	Apple	IIc Monitor	C408	33uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C409	1000uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C411	220uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C412	470uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C413	10uF	25V	analog board	EL
+Monitor	Apple	IIc Monitor	C505	4.7uF	50V	analog board	EL
+Monitor	Apple	IIc Monitor	C508	330uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C510	1000uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C513	1uF	350V	analog board	EL
+Monitor	Apple	IIc Monitor	C514	100uF	50V	analog board	EL
+Monitor	Apple	IIc Monitor	C515	4uF	25V	analog board	BP
+Monitor	Apple	IIc Monitor	C517	100uF	63V	analog board	EL
+Monitor	Apple	IIc Monitor	C518	1uF	350V	analog board	EL
+Monitor	Apple	IIc Monitor	C701	3300uF	25V	analog board	EL
+Monitor	Apple	IIc Monitor	C702	4.7uF	50V	analog board	EL
+Monitor	Apple	IIc Monitor	C704	2200uF	16V	analog board	EL
+Monitor	Apple	IIc Monitor	C772	0.1uF	250V	analog board	FLT RIFA
+Monitor	Apple	IIc Monitor	C773	0.0047uF	250V	analog board	FLT RIFA
+Monitor	Apple	IIc Monitor	C774	0.0047uF	250V	analog board	FLT RIFA
+Computer	Apple	IIc	C43	10uF	16V	motherboard	EL
+Computer	Apple	IIc	C44	10uF	16V	motherboard	EL
+Computer	Apple	IIc	C57	1000uF	25V	motherboard	EL
+Computer	Apple	IIc	C60	33uF	16V	motherboard	EL
+Computer	Apple	IIc	C2	220uF	16V	internal FDD (large board)	EL
+Computer	Apple	IIc	C4	470uF	6,3V	internal FDD (large board)	EL
+Computer	Apple	IIc	C5	10uF	25V	internal FDD (large board)	EL
+Computer	Apple	IIc	C1	10uF	35V	internal FDD (small board)	EL
+Computer	Apple	IIc	C5	10uF	35V	internal FDD (small board)	EL
+Computer	Apple	IIc	C6	10uF	35V	internal FDD (small board)	EL
+Computer	Apple	IIc	C2	3300uF	35V	power adapter module	EL
+Computer	Apple	IIc	C7	1000uF	16V	power adapter module	EL
+Computer	Apple	IIc	C8	220uF	16V	power adapter module	EL
+Computer	Apple	IIc	C9	470uF	16V	power adapter module	EL
+Computer	Apple	IIc	C16	220uF	16V	power adapter module	EL
+Computer	Apple	IIc	C17	33uF	35V	power adapter module	EL
+Computer	Apple	IIc	C18	1000uF	10V	power adapter module	EL
+Computer	Apple	IIc	C57	1uF	50V	power adapter module	EL
+Monitor	Apple	III Monitor	C201	47uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C203	330uF	10V	analog board	EL
+Monitor	Apple	III Monitor	C251	22uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C252	100uF	10V	analog board	EL
+Monitor	Apple	III Monitor	C254	22uF	160V	analog board	EL
+Monitor	Apple	III Monitor	C255	1uF	160V	analog board	EL
+Monitor	Apple	III Monitor	C256	100uF	160V	analog board	EL
+Monitor	Apple	III Monitor	C273	10uF	25V	analog board	EL
+Monitor	Apple	III Monitor	C301	1uF	50V	analog board	EL
+Monitor	Apple	III Monitor	C303	10uF	25V	analog board	EL
+Monitor	Apple	III Monitor	C305	220uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C604	33uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C607	3.3uF	25V	analog board	EL
+Monitor	Apple	III Monitor	C608	47uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C610	47uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C611	220uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C612	2200uF	10V	analog board	EL
+Monitor	Apple	III Monitor	C613	33uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C616	100uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C706	1uF	50V	analog board	EL
+Monitor	Apple	III Monitor	C712	6.8uF	25V	analog board	EL
+Monitor	Apple	III Monitor	C713	470uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C714	470uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C771	1uF	50V	analog board	EL
+Monitor	Apple	III Monitor	C772	1uF	50V	analog board	EL
+Monitor	Apple	III Monitor	C901	2200uF	25V	analog board	EL
+Monitor	Apple	III Monitor	C903	220uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C905	1uF	50V	analog board	EL
+Monitor	Apple	III Monitor	C908	220uF	16V	analog board	EL
+Monitor	Apple	III Monitor	C909	2200uF	25V	analog board	EL
+Computer	Apple	Macintosh 512K	C1	3.9uF	25V	analog board	BP
+Computer	Apple	Macintosh 512K	C2	4700uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C3	220uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C5	47uF	10V	analog board	EL
+Computer	Apple	Macintosh 512K	C6	22uF	50V	analog board	EL
+Computer	Apple	Macintosh 512K	C7	1uF	63V	keyboard	EL
+Computer	Apple	Macintosh 512K	C9	10uF	160V	analog board	EL
+Computer	Apple	Macintosh 512K	C11	uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C13	33uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C14	22uF	50V	analog board	EL
+Computer	Apple	Macintosh 512K	C24	2200uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C25	1000uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C26	1000uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C29	2200uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C30	220uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C31	1000uF	16V	analog board	EL
+Computer	Apple	Macintosh 512K	C35	100uF	200V	analog board	EL
+Computer	Apple	Macintosh 512K	C36	100uF	200V	analog board	EL
+Computer	Apple	Macintosh 512K	C38	0.1uF	250V	analog board	FLT RIFA
+Computer	Apple	Macintosh 512K	C39	470uF	10V	analog board	EL
+Computer	Apple	Macintosh 512K	C43	470uF	10V	analog board	EL
+Computer	Apple	Macintosh Classic II	C3	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C4	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C5	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C6	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C7	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C8	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C9	1uF	50V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C10	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C11	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C12	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C13	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C14	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	C15	1uF	50V	motherboard	SMD
+Computer	Apple	Macintosh Classic II	CF1	47uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic II	CF2	220uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic II	CF3	1000uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic II	CF4	470uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic II	CL1	1000uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic II	CL2	4.7uF	250V	analog board	EL
+Computer	Apple	Macintosh Classic II	CL3	1uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic II	CL11	47uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP1	220uF	400V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP2	470uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP3	10uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP4	47uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP5	1uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP6	2200uF	10V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP7	1000uF	10V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP8	2200uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP9	470uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP10	470uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP11	220uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP12	1000uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP19	10nF	250V	analog board	FLT RIFA
+Computer	Apple	Macintosh Classic II	CP34	1uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP36	2200uF	10V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP37	1uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic II	CP38	10nF	250V	analog board	FLT RIFA
+Computer	Apple	Macintosh Classic II	CV2	470uF	10V	analog board	EL
+Computer	Apple	Macintosh Classic	CF1	47uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic	CF2	220uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic	CF3	1000uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic	CF4	470uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic	CL1	10uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic	CL2	4.7uF	250V	analog board	EL
+Computer	Apple	Macintosh Classic	CL3	1uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic	CP1	220uF	400V	analog board	EL
+Computer	Apple	Macintosh Classic	CP2	1000uF	35V	analog board	EL
+Computer	Apple	Macintosh Classic	CP3	10uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic	CP4	47uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic	CP5	1uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic	CP6	2200uF	10V	analog board	EL
+Computer	Apple	Macintosh Classic	CP7	1000uF	10V	analog board	EL
+Computer	Apple	Macintosh Classic	CP8	2200uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic	CP9	470uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic	CP10	470uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic	CP11	220uF	25V	analog board	EL
+Computer	Apple	Macintosh Classic	CP12	1000uF	16V	analog board	EL
+Computer	Apple	Macintosh Classic	CP13	220uF	400V	analog board	EL
+Computer	Apple	Macintosh Classic	CP31	1000uF	6.3V	analog board	EL
+Computer	Apple	Macintosh Classic	CP34	1uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic	CP35	1uF	50V	analog board	EL
+Computer	Apple	Macintosh Classic	CP36	2200uF	10V	analog board	EL
+Computer	Apple	Macintosh Classic	CP37	1uF	50V	analog board	EL
+Computer	Apple	Macintosh IIci	C?	1000uF	16V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C?	1000uF	16V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C1	470uF	200V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C2	470uF	200V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C103	2200uF	10V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C153	1000uF	16V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C252	470uF	25V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C253	470uF	16V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C302	10uF	50V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C505	2.2uF	50V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C522	10uF	50V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C551	1000uF	35V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C612	10uF	50V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C807	470uF	35V	PSU (Delta)	EL
+Computer	Apple	Macintosh IIci	C2	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C3	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C5	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C6	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C8	470uF	16V	motherboard	EL
+Computer	Apple	Macintosh IIci	C9	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C10	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C11	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C12	10uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C13	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C14	470uF	16V	motherboard	EL
+Computer	Apple	Macintosh IIci	C15	470uF	16V	motherboard	EL
+Computer	Apple	Macintosh IIci	C16	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIci	C17	220uF	16V	motherboard	EL
+Computer	Apple	Macintosh IIfx	C105	680uF	250V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C106	680uF	250V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C109	4.7uF	400V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C110	47uF	25V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C207	1uF	50V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C208	47uF	25V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C212	10000uF	6.3V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C213	10000uF	6.3V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C214	4700uF	16V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C215	2200uF	16V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C219	100uF	25V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C220	100uF	25V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C221	1000uF	16V	PSU (large board)	EL
+Computer	Apple	Macintosh IIfx	C173	1uF	50V	PSU (small board 1)	EL
+Computer	Apple	Macintosh IIfx	C174	0.47uF	50V	PSU (small board 1)	EL
+Computer	Apple	Macintosh IIfx	C179	10uF	50V	PSU (small board 1)	EL
+Computer	Apple	Macintosh IIfx	C178	10uF	50V	PSU (small board 1)	EL
+Computer	Apple	Macintosh IIfx	C?	2.2uF	50V	PSU (small board 2)	EL
+Computer	Apple	Macintosh IIfx	C301	100uF	25V	PSU (small board 2)	EL
+Computer	Apple	Macintosh IIfx	C302	100uF	25V	PSU (small board 2)	EL
+Computer	Apple	Macintosh IIfx	C303	100uF	25V	PSU (small board 2)	EL
+Computer	Apple	Macintosh IIfx	C351	100uF	25V	PSU (small board 2)	EL
+Computer	Apple	Macintosh IIfx	C9	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIfx	C24	47uF	16V	motherboard	SMD
+Computer	Apple	Macintosh IIfx	C27	10uF	16V	motherboard	EL
+Computer	Apple	Macintosh IIfx	C42	1000uF	10V	motherboard	EL
+Computer	Apple	Macintosh IIfx	C221/C47	470uF	16V	motherboard	EL/SMD
+Computer	Apple	Macintosh IIfx	C223/C46	470uF	16V	motherboard	EL/SMD
+Computer	Apple	Macintosh IIfx	C224/C45	470uF	16V	motherboard	EL/SMD
+Computer	Apple	Macintosh IIfx	C226/C53	220uF	16V	motherboard	EL/SMD
+Computer	Apple	Macintosh Plus	C1	3.9uF	25V	analog board	BP HF
+Computer	Apple	Macintosh Plus	C2	4700uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C3	220uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C5	47uF	10V	analog board	EL
+Computer	Apple	Macintosh Plus	C6	22uF	50V	analog board	EL
+Computer	Apple	Macintosh Plus	C10	33uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C11	10uF	160V	analog board	EL
+Computer	Apple	Macintosh Plus	C12	22uF	50V	analog board	EL
+Computer	Apple	Macintosh Plus	C18	33uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C24	2200uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C27	2200uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C28	1000uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C30	2200uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C31	220uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C32	2200uF	16V	analog board	EL
+Computer	Apple	Macintosh Plus	C34	100uF	200V	analog board	EL
+Computer	Apple	Macintosh Plus	C35	100uF	200V	analog board	EL
+Computer	Apple	Macintosh Plus	C37	100uF	200V	analog board	EL
+Computer	Apple	Macintosh Plus	C38	100uF	200V	analog board	EL
+Computer	Apple	Macintosh Plus	C45	470uF	10V	analog board	EL
+Computer	Apple	Macintosh Plus	C47	470uF	10V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C5	560 uF	400 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C7	47 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C12	220 uF	10 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C13	47 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C15	47 uF	50 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C19	220 uF	16 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C20	47 uF	100 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C21	330 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C25	1000 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C26	2200 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C27	6800 uF	10 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C28	3300 uF	10 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C29	1000 uF	16 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C33	22 uF	50 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C34	22 uF	16 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C36	47 uF	160 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C37	33 uF	200 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C38	100 uF	100 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C39	47 uF	100 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C41	220 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C43	47 uF	16 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C44	1000 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C45	470 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C46	1000 uF	16 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C47	470 uF	10 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C48	47 uF	16 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C49	10 uF	100 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C50	1000 uF	16 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C53	1000 uF	16 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C56	1000 uF	25 V	PSU	EL
+Computer	Apple	PowerMac 5500/225	C103	16 uF	22 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C105	1 uF	50 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C106	220 uF	10 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C173	100 uF	160 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C201	100 uF	10 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C202	100 uF	10 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C301	0.1 uF	50 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C302	0.1 uF	50 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C303	0.1 uF	50 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C312	47 uF	16 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C313	470 uF	16 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C314	1 uF	100 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C316	1 uF	100 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C317	47 uF	100 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C320	470 uF	16 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C321	0.47 uF	50 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C332	1 uF	100 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C326	4.7 uF	250 V	CRT board	EL
+Computer	Apple	PowerMac 5500/225	C604	10 uF	50 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C621	1000 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C624	47 uF	50 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C626	1 uF	160 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C701	100 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C703	1000 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C707	22 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C708	1000 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C709	100 uF	50 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C717	47 uF	25 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C718	47 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C722	1 uF	50 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C729	1 uF	50 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C743	100 uF	160 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C746	47 uF	25 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C753	470 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C755	22 uF	50 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C757	47 uF	100 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C764	100 uF	160 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C766	47 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C767	47 uF	200 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C768	47 uF	200 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C801	100 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C802	100 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C803	100 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C804	22 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C805	33 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C806	33 uF	16 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C807	0.22 uF	50 V	analog board	EL
+Computer	Apple	PowerMac 5500/225	C808	0.22 uF	50 V	analog board	EL
+Monitor	Atari	PCM124	C304	0.47uF	50V	analog board	EL
+Monitor	Atari	PCM124	C106	1uF	50V	analog board	EL
+Monitor	Atari	PCM124	C202	2.2uF	50V	analog board	EL
+Monitor	Atari	PCM124	C201	2.2uF	50V	analog board	EL
+Monitor	Atari	PCM124	C227	3.3uF	50V	analog board	EL
+Monitor	Atari	PCM124	C702	4.7uF	50V	analog board	EL
+Monitor	Atari	PCM124	C312	8.2uF	50V	analog board	BP HF
+Monitor	Atari	PCM124	C308	10uF	25V	analog board	EL
+Monitor	Atari	PCM124	C108	47uF	16V	analog board	EL
+Monitor	Atari	PCM124	C104	47uF	16V	analog board	EL
+Monitor	Atari	PCM124	C105	47uF	100V	analog board	EL
+Monitor	Atari	PCM124	C322	100uF	100V	analog board	EL
+Monitor	Atari	PCM124	C224	100uF	25V	analog board	EL
+Monitor	Atari	PCM124	C208	220uF	16V	analog board	EL
+Monitor	Atari	PCM124	C301	330uF	16V	analog board	EL
+Monitor	Atari	PCM124	C230	1000uF	16V	analog board	EL
+Monitor	Atari	PCM124	C209	1000uF	35V	analog board	EL
+Monitor	Atari	PCM124	C315	1000uF	35V	analog board	EL
+Monitor	Atari	PCM124	C229	2200uF	10V	analog board	EL
+Monitor	Atari	PCM124	C701	3300uF	35V	analog board	EL
+Monitor	Atari	SC1224	C302	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C304	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C305	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C306	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C307	100uF	16V	analog board	EL
+Monitor	Atari	SC1224	C308	1uF	50V	analog board	BP
+Monitor	Atari	SC1224	C312	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C314	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C315	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C316	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C317	100uF	16V	analog board	EL
+Monitor	Atari	SC1224	C318	1uF	50V	analog board	BP
+Monitor	Atari	SC1224	C322	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C324	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C325	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C326	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C327	100uF	16V	analog board	EL
+Monitor	Atari	SC1224	C328	1uF	50V	analog board	BP
+Monitor	Atari	SC1224	C331	100uF	160V	analog board	EL
+Monitor	Atari	SC1224	C332	330uF	16V	analog board	EL
+Monitor	Atari	SC1224	C333	22uF	16V	analog board	EL
+Monitor	Atari	SC1224	C401	1uF	50V	analog board	EL
+Monitor	Atari	SC1224	C402	220uF	16V	analog board	EL
+Monitor	Atari	SC1224	C403	10uF	16V	analog board	EL
+Monitor	Atari	SC1224	C404	10uF	16V	analog board	EL
+Monitor	Atari	SC1224	C406	1000uF	16V	analog board	EL
+Monitor	Atari	SC1224	C409	220uF	16V	analog board	EL
+Monitor	Atari	SC1224	C601	220uF	16V	analog board	EL
+Monitor	Atari	SC1224	C602	10uF	16V	analog board	EL
+Monitor	Atari	SC1224	C607	0.47uF	50V	analog board	EL
+Monitor	Atari	SC1224	C609	1000uF	25V	analog board	EL
+Monitor	Atari	SC1224	C613	100uF	50V	analog board	EL
+Monitor	Atari	SC1224	C614	100uF	50V	analog board	EL
+Monitor	Atari	SC1224	C616	220uF	25V	analog board	EL
+Monitor	Atari	SC1224	C617	3.3uF	50V	analog board	EL
+Monitor	Atari	SC1224	C618	47uF	25V	analog board	EL
+Monitor	Atari	SC1224	C621	10uF	25V	analog board	EL
+Monitor	Atari	SC1224	C703	1000uF	16V	analog board	EL
+Monitor	Atari	SC1224	C707	1uF	50V	analog board	EL
+Monitor	Atari	SC1224	C709	1uF	50V	analog board	EL
+Monitor	Atari	SC1224	C713	2.2uF	160V	analog board	EL
+Monitor	Atari	SC1224	C719	33uF	50V	analog board	EL
+Monitor	Atari	SC1224	C721	2200uF	35V	analog board	EL
+Monitor	Atari	SC1224	C724	10uF	160V	analog board	EL
+Monitor	Atari	SC1224	C726	3.3uF	50V	analog board	BP
+Monitor	Atari	SC1224	C727	3.3uF	50V	analog board	BP
+Monitor	Atari	SC1224	C728	220uF	16V	analog board	EL
+Monitor	Atari	SC1224	C729	100uF	16V	analog board	EL
+Monitor	Atari	SC1224	C734	33uF	16V	analog board	EL
+Monitor	Atari	SC1224	C735	1uF	160V	analog board	EL
+Monitor	Atari	SC1224	C736	220uF	160V	analog board	EL
+Monitor	Atari	SC1224	C737	1000uF	25V	analog board	EL
+Monitor	Atari	SC1224	C739	3.3uF	50V	analog board	BP
+Monitor	Atari	SC1224	C740	33uF	160V	analog board	EL
+Monitor	Atari	SC1224	C741	1000uF	25V	analog board	EL
+Monitor	Atari	SC1224	C501	10uF	16V	CRT board	EL
+Monitor	Atari	SC1224	C504	10uF	16V	CRT board	EL
+Monitor	Atari	SC1224	C507	10uF	16V	CRT board	EL
+Monitor	Atari	SC1224	C511	10uF	160V	CRT board	EL
+Monitor	Atari	SC1224	C512	1uF	160V	CRT board	EL
+Monitor	Atari	SC1224	C513	1uF	160V	CRT board	EL
+Monitor	Atari	SC1224	C514	1uF	160V	CRT board	EL
+Monitor	Atari	SC1224	C950	120uF	400V	PSU	EL
+Monitor	Atari	SC1224	C951	10uF	100V	PSU	EL
+Monitor	Atari	SC1224	C952	10uF	50V	PSU	EL
+Monitor	Atari	SC1224	C961	1000uF	25V	PSU	EL
+Monitor	Atari	SC1224	C963	1000uF	25V	PSU	EL
+Monitor	Atari	SC1224	C965	100uF	160V	PSU	EL
+Monitor	Atari	SM124	C302	10uF	100V	analog board	EL
+Monitor	Atari	SM124	C303	10uF	100V	analog board	EL
+Monitor	Atari	SM124	C304	47uF	10V	analog board	EL
+Monitor	Atari	SM124	C305	47uF	16V	analog board	EL
+Monitor	Atari	SM124	C306	22uF	16V	analog board	EL
+Monitor	Atari	SM124	C308	47uF	100V	analog board	EL
+Monitor	Atari	SM124	C402	1000uF	16V	analog board	EL
+Monitor	Atari	SM124	C404	220uF	16V	analog board	EL
+Monitor	Atari	SM124	C601	0.1uF	50V	analog board	EL
+Monitor	Atari	SM124	C608	10uF	16V	analog board	EL
+Monitor	Atari	SM124	C610	2200uF	16V	analog board	EL
+Monitor	Atari	SM124	C611	220uF	16V	analog board	EL
+Monitor	Atari	SM124	C612	220uF	16V	analog board	EL
+Monitor	Atari	SM124	C706	0.47uF	50V	analog board	EL
+Monitor	Atari	SM124	C709	100uF	16V	analog board	EL
+Monitor	Atari	SM124	C712	4.7uF	50V	analog board	EL
+Monitor	Atari	SM124	C713	330uF	50V	analog board	EL
+Monitor	Atari	SM124	C716	2.2uF	50V	analog board	BP
+Monitor	Atari	SM124	C717	47uF	100V	analog board	EL
+Monitor	Atari	SM124	C718	100uF	100V	analog board	EL
+Monitor	Atari	SM124	C907	120uF	400V	analog board	EL
+Monitor	Atari	SM124	C909	100uF	25V	analog board	EL
+Monitor	Atari	SM124	C911	100uF	10V	analog board	EL
+Monitor	Atari	SM124	C912	1uF	50V	analog board	EL
+Monitor	Atari	SM124	C913	100uF	10V	analog board	EL
+Monitor	Atari	SM124	C931	470uF	50V	analog board	EL
+Monitor	Atari	SM124	C932	100uF	50V	analog board	EL
+Monitor	Atari	SM124	C934	1000uF	25V	analog board	EL
+Monitor	Atari	SM124	C935	470uF	16V	analog board	EL
+Monitor	Atari	SM144	C301	100uF	10V	analog board	EL
+Monitor	Atari	SM144	C302	100uF	10V	analog board	EL
+Monitor	Atari	SM144	C602	47uF	16V	analog board	EL
+Monitor	Atari	SM144	C605	330uF	16V	analog board	EL
+Monitor	Atari	SM144	C608	1000uF	25V	analog board	EL
+Monitor	Atari	SM144	C609	100uF	25V	analog board	EL
+Monitor	Atari	SM144	C610	0.22uF	50V	analog board	EL
+Monitor	Atari	SM144	C611	2200uF	16V	analog board	EL
+Monitor	Atari	SM144	C616	1uF	100V	analog board	EL
+Monitor	Atari	SM144	C618	47uF	16V	analog board	EL
+Monitor	Atari	SM144	C701	47uF	16V	analog board	EL
+Monitor	Atari	SM144	C704	1uF	50V	analog board	EL
+Monitor	Atari	SM144	C709	1uF	50V	analog board	EL
+Monitor	Atari	SM144	C712	330uF	50V	analog board	EL
+Monitor	Atari	SM144	C714	22uF	100V	analog board	EL
+Monitor	Atari	SM144	C718	10uF	16V	analog board	EL
+Monitor	Atari	SM144	C719	220uF	16V	analog board	EL
+Monitor	Atari	SM144	C723	330uF	16V	analog board	EL
+Monitor	Atari	SM144	C727	10uF	16V	analog board	EL
+Monitor	Atari	SM144	C731	47uF	25V	analog board	EL
+Monitor	Atari	SM144	C740	47uF	10V	analog board	EL
+Monitor	Atari	SM144	C802	220uF	16V	analog board	EL
+Monitor	Atari	SM144	C804	2200uF	16V	analog board	EL
+Monitor	Atari	SM144	C905	120uF	400V	analog board	EL
+Monitor	Atari	SM144	C907	47uF	50V	analog board	EL
+Monitor	Atari	SM144	C914	1uF	160V	analog board	EL
+Monitor	Atari	SM144	C924	100uF	100V	analog board	EL
+Monitor	Atari	SM144	C925	330uF	25V	analog board	EL
+Monitor	Atari	SM144	C926	470uF	16V	analog board	EL
+Monitor	Atari	SM144	C927	330uF	50V	analog board	EL
+Monitor	Atari	SM144	C928	100uF	100V	analog board	EL
+Monitor	Atari	SM144	C929	1000uF	25V	analog board	EL
+Monitor	Atari	SM144	C930	1000uF	16V	analog board	EL
+Monitor	Atari	SM144	C317	10uF	16V	CRT board	EL
+Monitor	Atari	SM144	C318	22uF	100V	CRT board	EL
+Monitor	Atari	SM144	C319	47uF	16V	CRT board	EL
+Monitor	Atari	SM144	C326	1uF	50V	CRT board	EL
+Monitor	Commodore	76BM13-00E	C104	3300uF	25V	analog board	EL
+Monitor	Commodore	76BM13-00E	C106	10uF	16V	analog board	EL
+Monitor	Commodore	76BM13-00E	C107	330uF	16V	analog board	EL
+Monitor	Commodore	76BM13-00E	C341	1uF	50V	analog board	EL
+Monitor	Commodore	76BM13-00E	C343	10uF	25V	analog board	EL
+Monitor	Commodore	76BM13-00E	C407	22uF	35V	analog board	EL
+Monitor	Commodore	76BM13-00E	C433	100uF	25V	analog board	EL
+Monitor	Commodore	76BM13-00E	C434	330uF	25V	analog board	EL
+Monitor	Commodore	76BM13-00E	C435	4.7uF	100V	analog board	EL
+Monitor	Commodore	76BM13-00E	C507	1uF	50V	analog board	EL
+Monitor	Commodore	76BM13-00E	C521	47uF	25V	analog board	EL
+Monitor	Commodore	76BM13-00E	C522	47uF	25V	analog board	EL
+Monitor	Commodore	76BM13-00E	C525	22uF	100V	analog board	EL
+Monitor	Commodore	76BM13-00E	C603	22uF	16V	analog board	EL
+Monitor	Commodore	1081	C112	100uF	400V	PSU	EL
+Monitor	Commodore	1081	C116	47uF	16V	PSU	EL
+Monitor	Commodore	1081	C122	1uF	50V	PSU	EL
+Monitor	Commodore	1081	C144	47uF	200V	PSU	EL
+Monitor	Commodore	1081	C145	470uF	35V	PSU	EL
+Monitor	Commodore	1081	C146	470uF	25V	PSU	EL
+Monitor	Commodore	1081	C204	100uF	10V	analog board	EL
+Monitor	Commodore	1081	C205	100uF	10V	analog board	EL
+Monitor	Commodore	1081	C206	100uF	10V	analog board	EL
+Monitor	Commodore	1081	C214	100uF	16V	analog board	EL
+Monitor	Commodore	1081	C216	47uF	16V	analog board	EL
+Monitor	Commodore	1081	C232	47uF	16V	analog board	EL
+Monitor	Commodore	1081	C233	100uF	16V	analog board	EL
+Monitor	Commodore	1081	C234	1uF	50V	analog board	EL
+Monitor	Commodore	1081	C258	47uF	16V	analog board	EL
+Monitor	Commodore	1081	C318	22uF	16V	analog board	EL
+Monitor	Commodore	1081	C323	220uF	16V	analog board	EL
+Monitor	Commodore	1081	C324	1000uF	25V	analog board	EL
+Monitor	Commodore	1081	C324	1000uF	25V	analog board	EL
+Monitor	Commodore	1081	C334	0.47uF	63V	analog board	EL
+Monitor	Commodore	1081	C345	10uF	16V	analog board	EL
+Monitor	Commodore	1081	C347	100uF	35V	analog board	EL
+Monitor	Commodore	1081	C348	470uF	35V	analog board	EL
+Monitor	Commodore	1081	C352	680uF	35V	analog board	EL
+Monitor	Commodore	1081	C357	47uF	16V	analog board	EL
+Monitor	Commodore	1081	C361	47uF	16V	analog board	EL
+Monitor	Commodore	1081	C401	2.2uF	25V	analog board	EL
+Monitor	Commodore	1081	C412	10uF	16V	analog board	EL
+Monitor	Commodore	1081	C433	100uF	16V	analog board	EL
+Monitor	Commodore	1081	C446	1uF	50V	analog board	EL
+Monitor	Commodore	1081	C447	4.7uF	25V	analog board	EL
+Monitor	Commodore	1081	C461	2.2uF	63V	analog board	EL
+Monitor	Commodore	1081	C462	22uF	35V	analog board	EL
+Monitor	Commodore	1081	C473	4.7uF	50V	analog board	BP HF
+Monitor	Commodore	1081	C474	1uF	50V	analog board	EL
+Monitor	Commodore	1081	C482	1uF	50V	analog board	EL
+Monitor	Commodore	1081	C485	22uF	35V	analog board	EL
+Monitor	Commodore	1081	C491	470uF	25V	analog board	EL
+Monitor	Commodore	1081	C492	330uF	16V	analog board	EL
+Monitor	Commodore	1081	C493	470uF	35V	analog board	EL
+Monitor	Commodore	1081	C494	47uF	200V	analog board	EL
+Monitor	Commodore	1081	C496	47uF	16V	analog board	EL
+Monitor	Commodore	1081	C497	1.5uF	63V	analog board	EL
+Monitor	Commodore	1081	C505	100uF	10V	analog board	EL
+Monitor	Commodore	1081	C507	47uF	16V	analog board	EL
+Monitor	Commodore	1081	C511	100uF	16V	analog board	EL
+Monitor	Commodore	1081	C512	47uF	16V	analog board	EL
+Monitor	Commodore	1081	C544	22uF	16V	analog board	EL
+Monitor	Commodore	1081	C562	100uF	16V	analog board	EL
+Monitor	Commodore	1081	C574	100uF	16V	analog board	EL
+Monitor	Commodore	1081	C585	4.7uF	25V	analog board	EL
+Monitor	Commodore	1081	C634	22uF	16V	analog board	EL
+Monitor	Commodore	1081	C636	22uF	16V	analog board	EL
+Monitor	Commodore	1081	C638	100uF	35V	analog board	EL
+Monitor	Commodore	1081	C717	4.7uF	200V	CRT board	EL
+Monitor	Commodore	1084S-P1	2136	4.7uF	200V	analog board	EL
+Monitor	Commodore	1084S-P1	2141	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2266	4.7uF	25V	analog board	EL
+Monitor	Commodore	1084S-P1	2268	2.2uF	63V	analog board	EL
+Monitor	Commodore	1084S-P1	2269	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2272	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2274	100uF	16V	analog board	EL
+Monitor	Commodore	1084S-P1	2291	1000uF	16V	analog board	EL
+Monitor	Commodore	1084S-P1	2301	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2327	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2328	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2361	10uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2412	100uF	400V	analog board	EL
+Monitor	Commodore	1084S-P1	2416	10uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2422	1uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2445	470uF	25V	analog board	EL
+Monitor	Commodore	1084S-P1	2446	470uF	25V	analog board	EL
+Monitor	Commodore	1084S-P1	2447	470uF	25V	analog board	EL
+Monitor	Commodore	1084S-P1	2450	10uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2451	47uF	200V	analog board	EL
+Monitor	Commodore	1084S-P1	2452	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2511	2.2uF	63V	analog board	EL
+Monitor	Commodore	1084S-P1	2512	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2515	1uF	250V	analog board	EL
+Monitor	Commodore	1084S-P1	2520	10uF	160V	analog board	EL
+Monitor	Commodore	1084S-P1	2524	4.7uF	50V	analog board	BP
+Monitor	Commodore	1084S-P1	2526	1uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2536	1uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2537	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2541	22uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2547	2.2uF	63V	analog board	EL
+Monitor	Commodore	1084S-P1	2560	220uF	35V	analog board	EL
+Monitor	Commodore	1084S-P1	2561	220uF	35V	analog board	EL
+Monitor	Commodore	1084S-P1	2563	470uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2571	680uF	35V	analog board	EL
+Monitor	Commodore	1084S-P1	2573	1.5uF	63V	analog board	EL
+Monitor	Commodore	1084S-P1	2601	100uF	16V	analog board	EL
+Monitor	Commodore	1084S-P1	2604	1uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2640	100uF	16V	analog board	EL
+Monitor	Commodore	1084S-P1	2647	4.7uF	25V	analog board	EL
+Monitor	Commodore	1084S-P1	2669	10uF	50V	analog board	EL
+Monitor	Commodore	1084S-P1	2696	47uF	16V	analog board	EL
+Monitor	Commodore	1084S-P1	2697	47uF	16V	analog board	EL
+Monitor	Commodore	1701	C101	10uF	250V	CRT board	EL
+Monitor	Commodore	1701	C104	330uF	200V	power board	EL
+Monitor	Commodore	1701	C105	10uF	250V	power board	EL
+Monitor	Commodore	1701	C107	330uF	200V	power board	EL
+Monitor	Commodore	1701	C108	1uF	160V	power board	EL
+Monitor	Commodore	1701	C403	100uF	16V	analog board (hidden)	EL
+Monitor	Commodore	1701	C506	100uF	16V	analog board (hidden)	EL
+Monitor	Commodore	1701	C701	100uF	6.3V	analog board (hidden)	EL
+Monitor	Commodore	1701	C101	470uF	6.3V	analog board	EL
+Monitor	Commodore	1701	C102	33uF	6.3V	analog board	EL
+Monitor	Commodore	1701	C103	470uF	16V	analog board	EL
+Monitor	Commodore	1701	C200	470uF	16V	analog board	EL
+Monitor	Commodore	1701	C200	470uF	16V	analog board	EL
+Monitor	Commodore	1701	C201	10uF	16V	analog board	EL
+Monitor	Commodore	1701	C203	0.47uF	50V	analog board	EL
+Monitor	Commodore	1701	C208	0.47uF	50V	analog board	EL
+Monitor	Commodore	1701	C213	10uF	16V	analog board	EL
+Monitor	Commodore	1701	C214	10uF	16V	analog board	EL
+Monitor	Commodore	1701	C216	1uF	50V	analog board	EL
+Monitor	Commodore	1701	C217	470uF	16V	analog board	EL
+Monitor	Commodore	1701	C220	47uF	25V	analog board	EL
+Monitor	Commodore	1701	C222	47uF	25V	analog board	EL
+Monitor	Commodore	1701	C302	10uF	16V	analog board	EL
+Monitor	Commodore	1801	C005	10uF	16V	analog board	EL
+Monitor	Commodore	1801	C101	1uF	50V	analog board	EL
+Monitor	Commodore	1801	C102	1000uF	16V	analog board	EL
+Monitor	Commodore	1801	C103	1uF	50V	analog board	EL
+Monitor	Commodore	1801	C202	3.3uF	50V	analog board	EL
+Monitor	Commodore	1801	C204	22uF	25V	analog board	EL
+Monitor	Commodore	1801	C206	10uF	16V	analog board	EL
+Monitor	Commodore	1801	C214	330uF	16V	analog board	EL
+Monitor	Commodore	1801	C219	1uF	50V	analog board	EL
+Monitor	Commodore	1801	C221	0.47uF	50V	analog board	EL
+Monitor	Commodore	1801	C303	0.47uF	50V	analog board	EL
+Monitor	Commodore	1801	C308	100uF	35V	analog board	EL
+Monitor	Commodore	1801	C310	470uF	35V	analog board	EL
+Monitor	Commodore	1801	C312	2.2uF	50V	analog board	EL
+Monitor	Commodore	1801	C318	470uF	35V	analog board	EL
+Monitor	Commodore	1801	C324	220uF	25V	analog board	EL
+Monitor	Commodore	1801	C325	100uF	16V	analog board	EL
+Monitor	Commodore	1801	C402	22uF	25V	analog board	EL
+Monitor	Commodore	1801	C403	1uF	50V	analog board	EL
+Monitor	Commodore	1801	C406	0.47uF	50V	analog board	EL
+Monitor	Commodore	1801	C410	4.7uF	50V	analog board	EL
+Monitor	Commodore	1801	C411	10uF	50V	analog board	EL
+Monitor	Commodore	1801	C421	10uF	160V	analog board	EL
+Monitor	Commodore	1801	C424	1000uF	25V	analog board	EL
+Monitor	Commodore	1801	C430	1uF	160V	analog board	EL
+Monitor	Commodore	1801	C503	1uF	50V	analog board	EL
+Monitor	Commodore	1801	C505	0.47uF	50V	analog board	EL
+Monitor	Commodore	1801	C518	4.7uF	50V	analog board	EL
+Monitor	Commodore	1801	C601	10uF	16V	analog board	EL
+Monitor	Commodore	1801	C602	470uF	16V	analog board	EL
+Monitor	Commodore	1801	C605	47uF	16V	analog board	EL
+Monitor	Commodore	1801	C606	47uF	16V	analog board	EL
+Monitor	Commodore	1801	C607	470uF	16V	analog board	EL
+Monitor	Commodore	1801	C608	100uF	16V	analog board	EL
+Monitor	Commodore	1801	C610	22uF	25V	analog board	EL
+Monitor	Commodore	1801	C701	10uF	50V	analog board	EL
+Monitor	Commodore	1801	C702	10uF	50V	analog board	EL
+Monitor	Commodore	1801	C703	10uF	50V	analog board	EL
+Monitor	Commodore	1801	C704	10uF	50V	analog board	EL
+Monitor	Commodore	1801	C706	10uF	50V	analog board	EL
+Monitor	Commodore	1801	C803	150uF	400V	analog board	EL
+Monitor	Commodore	1801	C806	2.2uF	160V	analog board	EL
+Monitor	Commodore	1801	C812	100uF	160V	analog board	EL
+Monitor	Commodore	1801	C813	100uF	160V	analog board	EL
+Monitor	Commodore	1801	C814	1000uF	25V	analog board	EL
+Monitor	Commodore	1801	C825	10uF	160V	analog board	EL
+Monitor	Commodore	1801	C826	100uF	25V	analog board	EL
+Monitor	Commodore	1801	C827	470uF	16V	analog board	EL
+Monitor	Commodore	1901	CB01	10uF	16V	analog board	EL
+Monitor	Commodore	1901	CE01	100uF	16V	analog board	EL
+Monitor	Commodore	1901	CE02	4.7uF	25V	analog board	EL
+Monitor	Commodore	1901	CF02	47uF	25V	analog board	EL
+Monitor	Commodore	1901	CF06	1000uF	16V	analog board	EL
+Monitor	Commodore	1901	CL02	2.2uF	50V	analog board	EL
+Monitor	Commodore	1901	CL03	1uF	50V	analog board	EL
+Monitor	Commodore	1901	CL04	100uF	16V	analog board	EL
+Monitor	Commodore	1901	CL07	1uF	50V	analog board	EL
+Monitor	Commodore	1901	CL16	220uF	16V	analog board	EL
+Monitor	Commodore	1901	CL17	220uF	16V	analog board	EL
+Monitor	Commodore	1901	CL19	2.2uF	50V	analog board	EL
+Monitor	Commodore	1901	CP01	0.1uF	275V	analog board	FLT RIFA
+Monitor	Commodore	1901	CP04	100uF	385V	analog board	EL
+Monitor	Commodore	1901	CP08	1uF	50V	analog board	EL
+Monitor	Commodore	1901	CP10	100uF	16V	analog board	EL
+Monitor	Commodore	1901	CP11	100uF	25V	analog board	EL
+Monitor	Commodore	1901	CP13	1uF	50V	analog board	EL
+Monitor	Commodore	1901	CP14	100uF	160V	analog board	EL
+Monitor	Commodore	1901	CP15	100uF	160V	analog board	EL
+Monitor	Commodore	1901	CP16	470uF	25V	analog board	EL
+Monitor	Commodore	1901	CP17	470uF	25V	analog board	EL
+Monitor	Commodore	1901	CP18	100uF	25V	analog board	EL
+Monitor	Commodore	1901	CP21	220uF	35V	analog board	EL
+Monitor	Commodore	1901	CS01	220uF	16V	analog board	EL
+Monitor	Commodore	1901	CS02	10uF	16V	analog board	EL
+Monitor	Commodore	1901	CS04	100uF	16V	analog board	EL
+Monitor	Commodore	1901	CS06	2.2uF	50V	analog board	EL
+Monitor	Commodore	1901	CV01	470uF	16V	analog board	EL
+Monitor	Commodore	1901	CV02	10uF	16V	analog board	EL
+Monitor	Commodore	1901	CV03	22uF	16V	analog board	EL
+Monitor	Commodore	1901	CV05	4.7uF	25V	analog board	EL
+Monitor	Commodore	1901	CV09	4.7uF	25V	analog board	EL
+Monitor	Commodore	1901	CV16	10uF	16V	analog board	EL
+Monitor	Commodore	1901	CV22	10uF	16V	analog board	EL
+Monitor	Commodore	1901	CV80	33uF	250V	CRT board	EL
+Monitor	Commodore	1901	CV83	100uF	10V	CRT board	EL
+Monitor	Commodore	1901	C103	2.2uF	50V	RGBI/PAL board	EL
+Monitor	Commodore	1901	C102	100uF	10V	RGBI/PAL board	EL
+Monitor	Commodore	1901	C106	220uF	10V	RGBI/PAL board	EL
+Monitor	Commodore	1901	C111	1uF	50V	RGBI/PAL board	EL
+Monitor	Commodore	1901	C112	22uF	10V	RGBI/PAL board	EL
+Monitor	Commodore	1901	CP04	2.2uF	50V	RGBI/PAL board	EL
+Monitor	Commodore	1901	CP05	4.7uF	25V	RGBI/PAL board	EL
+Monitor	Commodore	1901	CP08	1uF	50V	RGBI/PAL board	EL
+Monitor	Commodore	1901	CP11	220uF	16V	RGBI/PAL board	EL
+Computer	Commodore	Amiga 1000	C10	100uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C11	100uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C175	100uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C48	22uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C49	22uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C50	22uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C63	22uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C64	22uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C65	22uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C66	22uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C78	100uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C79	100uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C80	100uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C92	47uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C93	220uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C95	470uF	16V	motherboard	EL
+Computer	Commodore	Amiga 1000	C50	180uF	400V	PSU	EL
+Computer	Commodore	Amiga 1000	C49	10uF	35V	PSU	EL
+Computer	Commodore	Amiga 1000	C16	470uF	35V	PSU	EL
+Computer	Commodore	Amiga 1000	C18	330uF	25V	PSU	EL
+Computer	Commodore	Amiga 1000	C11	2200uF	10V	PSU	EL
+Computer	Commodore	Amiga 1000	C12	2200uF	10V	PSU	EL
+Computer	Commodore	Amiga 1000	C13	2200uF	10V	PSU	EL
+Computer	Commodore	Amiga 1000	C15	100uF	25V	PSU	EL
+Computer	Commodore	Amiga 1000	C17	100uF	25V	PSU	EL
+Computer	Commodore	Amiga 1000	C19	100uF	25V	PSU	EL
+Monitor	Commodore	DM602-00E	C341	1uF	50V	analog board	EL
+Monitor	Commodore	DM602-00E	C323	1.5uF	100V	analog board	BP
+Monitor	Commodore	DM602-00E	C507	4.7uF	25V	analog board	EL
+Monitor	Commodore	DM602-00E	C202	4.7uF	25V	analog board	EL
+Monitor	Commodore	DM602-00E	C435	4.7uF	100V	analog board	EL
+Monitor	Commodore	DM602-00E	C527	4.7uF	160V	analog board	EL
+Monitor	Commodore	DM602-00E	C207	10uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C106	10uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C343	10uF	25V	analog board	EL
+Monitor	Commodore	DM602-00E	C301	22uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C407	22uF	35V	analog board	EL
+Monitor	Commodore	DM602-00E	C525	22uF	100V	analog board	EL
+Monitor	Commodore	DM602-00E	C205	47uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C208	47uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C203	47uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C521	47uF	25V	analog board	EL
+Monitor	Commodore	DM602-00E	C522	47uF	25V	analog board	EL
+Monitor	Commodore	DM602-00E	C209	100uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C304	100uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C433	100uF	25V	analog board	EL
+Monitor	Commodore	DM602-00E	C434	220uF	25V	analog board	EL
+Monitor	Commodore	DM602-00E	C107	330uF	16V	analog board	EL
+Monitor	Commodore	DM602-00E	C104	4700uF	25V	analog board	EL
+Computer	Compaq	Portable	C28	470uF	25V	PSU	EL
+Computer	Compaq	Portable	C29	470uF	25V	PSU	EL
+Computer	Compaq	Portable	C27	470uF	25V	PSU	EL
+Computer	Compaq	Portable	C19	470uF	25V	PSU	EL
+Computer	Compaq	Portable	C14	1500uF	35V	PSU	EL
+Computer	Compaq	Portable	C15	3300uF	10V	PSU	EL
+Computer	Compaq	Portable	C16	3300uF	10V	PSU	EL
+Computer	Compaq	Portable	C1	100uF	250V	PSU	EL
+Computer	Compaq	Portable	C2	100uF	250V	PSU	EL
+Computer	Compaq	Portable	C3	100uF	250V	PSU	EL
+Computer	Compaq	Portable	C4	100uF	250V	PSU	EL
+Computer	Compaq	Portable	C401	22uF	100V	analog board	EL
+Computer	Compaq	Portable	C402	10uF	25V	analog board	EL
+Computer	Compaq	Portable	C108	33uF	16V	analog board	EL
+Computer	Compaq	Portable	C124	220uF	25V	analog board	EL
+Computer	Compaq	Portable	C122	22uF	100V	analog board	EL
+Computer	Compaq	Portable	C123	220uF	25V	analog board	EL
+Computer	Compaq	Portable	C113	47uF	25V	analog board	EL
+Computer	Compaq	Portable	C312	47uF	25V	analog board	EL
+Computer	Compaq	Portable	C311	47uF	25V	analog board	EL
+Computer	Compaq	Portable	C133	100uF	16V	analog board	EL
+Computer	Compaq	Portable	C131	220uF	10V	analog board	EL
+Computer	Compaq	Portable	C134	1uF	250V	analog board	EL
+Computer	Compaq	Portable	C317	470uF	25V	analog board	EL
+Computer	Compaq	Portable	C313	47uF	25V	analog board	EL
+Computer	Compaq	Portable	C310	4.7uF	25V	analog board	EL
+Computer	Compaq	Portable	C132	470uF	16V	analog board	EL
+Computer	Compaq	Portable	C304	47uF	16V	analog board	EL
+Computer	Compaq	Portable	C309	1uF	50V	analog board	EL
+Computer	Compaq	Portable	C307	10uF	25V	analog board	EL
+Computer	Compaq	Portable	C308	1uF	50V	analog board	EL
+Computer	Compaq	Portable	C316	470uF	16V	analog board	EL
+Computer	Compaq	Portable	G4	33uF	25V	analog board	EL
+Computer	Compaq	Portable	F4	10uF	25V	analog board	EL
+Monitor	Daewoo	DM120M	C201	22uF	25V	analog board	EL
+Monitor	Daewoo	DM120M	C202	100uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C204	330uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C205	100uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C206	100uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C209	4.7uF	50V	analog board	EL
+Monitor	Daewoo	DM120M	C210	100uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C301	33uF	63V	CRT board	EL
+Monitor	Daewoo	DM120M	C303	4.7uF	50V	CRT board	EL
+Monitor	Daewoo	DM120M	C401	1uF	50V	analog board	EL
+Monitor	Daewoo	DM120M	C404	10uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C505	100uF	25V	analog board	EL
+Monitor	Daewoo	DM120M	C508	100uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C510	100uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C512	2200uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C513	1uF	50V	analog board	EL
+Monitor	Daewoo	DM120M	C604	4.7uF	50V	analog board	EL
+Monitor	Daewoo	DM120M	C608	330uF	25V	analog board	EL
+Monitor	Daewoo	DM120M	C611	4.7uF	50V	analog board	EL
+Monitor	Daewoo	DM120M	C612	6.8uF	25V	analog board	BP
+Monitor	Daewoo	DM120M	C615	100uF	25V	analog board	EL
+Monitor	Daewoo	DM120M	C616	100uF	25V	analog board	EL
+Monitor	Daewoo	DM120M	C701	1uF	50V	analog board	BP
+Monitor	Daewoo	DM120M	C702	33uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C704	100uF	25V	analog board	EL
+Monitor	Daewoo	DM120M	C705	470uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C706	220uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C730	470uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C731	10uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C732	10uF	16V	analog board	EL
+Monitor	Daewoo	DM120M	C806	4700uF	35V	analog board	EL
+Monitor	Daewoo	DM120M	C807	470uF	25V	analog board	EL
+Monitor	Daewoo	DM120M	C901	1uF	160V	analog board	EL
+Monitor	Daewoo	DM120M	C902	3.3uF	100V	analog board	EL
+Monitor	Highscreen	VGA-02	C108	220uF	400V	analog board	EL
+Monitor	Highscreen	VGA-02	C605	2200uF	25V	analog board	EL
+Monitor	Highscreen	VGA-02	C123	470uF	35V	analog board	EL
+Monitor	Highscreen	VGA-02	C126	470uF	25V	analog board	EL
+Monitor	Highscreen	VGA-02	C129	100uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C127	220uF	25V	analog board	EL
+Monitor	Highscreen	VGA-02	C117	220uF	100V	analog board	EL
+Monitor	Highscreen	VGA-02	C118	47uF	100V	analog board	EL
+Monitor	Highscreen	VGA-02	C120	47uF	160V	analog board	EL
+Monitor	Highscreen	VGA-02	C811	10uF	160V	analog board	EL
+Monitor	Highscreen	VGA-02	C121	47uF	160V	analog board	EL
+Monitor	Highscreen	VGA-02	C124	470uF	35V	analog board	EL
+Monitor	Highscreen	VGA-02	C805	220uF	35V	analog board	EL
+Monitor	Highscreen	VGA-02	C809	10uF	250V	analog board	EL
+Monitor	Highscreen	VGA-02	C812	100uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C810	4.7uF	50V	analog board	EL
+Monitor	Highscreen	VGA-02	C115	10uF	100V	analog board	EL
+Monitor	Highscreen	VGA-02	C111	33uF	50V	analog board	EL
+Monitor	Highscreen	VGA-02	C603	1000uF	25V	analog board	EL
+Monitor	Highscreen	VGA-02	C606	100uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C701	220uF	35V	analog board	EL
+Monitor	Highscreen	VGA-02	C703	47uF	25V	analog board	EL
+Monitor	Highscreen	VGA-02	C704	1uF	50V	analog board	EL
+Monitor	Highscreen	VGA-02	C706	22 BPuF	25V	analog board	EL
+Monitor	Highscreen	VGA-02	C601	220uF	35V	analog board	EL
+Monitor	Highscreen	VGA-02	C610	1uF	50V	analog board	EL
+Monitor	Highscreen	VGA-02	C519	47uF	100V	analog board	EL
+Monitor	Highscreen	VGA-02	C512	47uF	35V	analog board	EL
+Monitor	Highscreen	VGA-02	C304	10uF	160V	analog board	EL
+Monitor	Highscreen	VGA-02	C306	100uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C211	100uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C215	4.7uF	50V	analog board	EL
+Monitor	Highscreen	VGA-02	C213	10uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C201	10uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C202	10uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C203	10uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C210	4.7uF	50V	analog board	EL
+Monitor	Highscreen	VGA-02	C221	100uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C402	100uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C403	10uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C405	10uF	16V	analog board	EL
+Monitor	Highscreen	VGA-02	C502	220uF	25V	analog board	EL
+Monitor	Highscreen	VGA-02	C511	4.7uF	50V	analog board	EL
+Monitor	Highscreen	VGA-02	C505	4.7uF	50V	analog board	EL
+Monitor	Highscreen	VGA-02	C219	1uF	50V	analog board	EL
+Computer	Kaypro	II	C304	1uF	50V	analog board	EL
+Computer	Kaypro	II	C403	2.2uF	50V	analog board	EL
+Computer	Kaypro	II	C301	4.7uF	50V	analog board	EL
+Computer	Kaypro	II	C308	10uF	16V	analog board	EL
+Computer	Kaypro	II	C306	10uF	25V	analog board	EL
+Computer	Kaypro	II	C413	22uF	160V	analog board	EL
+Computer	Kaypro	II	C302	33uF	16V	analog board	EL
+Computer	Kaypro	II	C423	47uF	16V	analog board	EL
+Computer	Kaypro	II	C311	47uF	25V	analog board	EL
+Computer	Kaypro	II	C442	47uF	35V	analog board	EL
+Computer	Kaypro	II	C441	47uF	35V	analog board	EL
+Computer	Kaypro	II	C415	47uF	160V	analog board	EL
+Computer	Kaypro	II	C404	100uF	16V	analog board	EL
+Computer	Kaypro	II	C412	100uF	16V	analog board	EL
+Computer	Kaypro	II	C309	220uF	10V	analog board	EL
+Computer	Kaypro	II	C310	1000uF	16V	analog board	EL
+Computer	Kaypro	II	C1	0.01uF	250V	PSU	EL
+Computer	Kaypro	II	C13	0.01uF	250V	PSU	EL
+Computer	Kaypro	II	C2	0.1uF	250V	PSU	EL
+Computer	Kaypro	II	C21	100uF	25V	PSU	EL
+Computer	Kaypro	II	C25	100uF	25V	PSU	EL
+Computer	Kaypro	II	C5	100uF	250V	PSU	EL
+Computer	Kaypro	II	C6	100uF	250V	PSU	EL
+Computer	Kaypro	II	C7	100uF	250V	PSU	EL
+Computer	Kaypro	II	C8	100uF	250V	PSU	EL
+Computer	Kaypro	II	C9	220uF	10V	PSU	EL
+Computer	Kaypro	II	C17	1000uF	16V	PSU	EL
+Computer	Kaypro	II	C18	1000uF	16V	PSU	EL
+Computer	Kaypro	II	C24	2200uF	16V	PSU	EL
+Computer	Kaypro	II	C22	2200uF	16V	PSU	EL
+Computer	Kaypro	II	C23	2200uF	16V	PSU	EL
+Computer	Kaypro	II	C20	2200uF	16V	PSU	EL
+Computer	Kaypro	II	C19	2200uF	16V	PSU	EL
+Computer	Kaypro	II	C20	47uF	16V	motherboard	EL
+Computer	Kaypro	II	C69	47uF	16V	motherboard	EL
+TV	Unitra	Neptun 150A	C801	22uF	250V	Backplane	EL
+TV	Unitra	Neptun 150A	C906	4700uF	25V	BZ-1001	EL
+TV	Unitra	Neptun 150A	C206	10uF	16V	MF-1003	EL
+TV	Unitra	Neptun 150A	C207	100uF	16V	MF-1003	EL
+TV	Unitra	Neptun 150A	C214	100uF	16V	MF-1003	EL
+TV	Unitra	Neptun 150A	C215	100uF	16V	MF-1003	EL
+TV	Unitra	Neptun 150A	C218	100uF	16V	MF-1003	EL
+TV	Unitra	Neptun 150A	C220	470uF	16V	MF-1003	EL
+TV	Unitra	Neptun 150A	C222	220uF	16V	MF-1003	EL
+TV	Unitra	Neptun 150A	C952	220uF	16V	MH-1001	EL
+TV	Unitra	Neptun 150A	C954	220uF	16V	MH-1001	EL
+TV	Unitra	Neptun 150A	C955	10uF	25V	MH-1001	EL
+TV	Unitra	Neptun 150A	C959	220uF	16V	MH-1001	EL
+TV	Unitra	Neptun 150A	C961	220uF	40V	MH-1001	EL
+TV	Unitra	Neptun 150A	C963	100uF	40V	MH-1001	EL
+TV	Unitra	Neptun 150A	C965	4.7uF	160V	MH-1001	EL
+TV	Unitra	Neptun 150A	C966	10uF	350V	MH-1001	EL
+TV	Unitra	Neptun 150A	C112	10uF	16V	MP-1003	EL
+TV	Unitra	Neptun 150A	C117	10uF	63V	MP-1003	EL
+TV	Unitra	Neptun 150A	C119	47uF	16V	MP-1003	EL
+TV	Unitra	Neptun 150A	C120	47uF	16V	MP-1003	EL
+TV	Unitra	Neptun 150A	C254	47uF	16V	MS-1002	EL
+TV	Unitra	Neptun 150A	C258	470uF	16V	MS-1002	EL
+TV	Unitra	Neptun 150A	C260	2.2uF	40V	MS-1002	EL
+TV	Unitra	Neptun 150A	C302	1000uF	25V	MV-1004	EL
+TV	Unitra	Neptun 150A	C304	100uF	25V	MV-1004	EL
+TV	Unitra	Neptun 150A	C309	47uF	25V	MV-1004	EL
+TV	Unitra	Neptun 150A	C310	1000uF	16V	MV-1004	EL
+Computer	Osborne	Osborne 1	C210	1500uF	25V	analog board	EL
+Computer	Osborne	Osborne 1	C208	100uF	16V	analog board	EL
+Computer	Osborne	Osborne 1	C212	100uF	16V	analog board	EL
+Computer	Osborne	Osborne 1	C320	22uF	35V	analog board	EL
+Computer	Osborne	Osborne 1	C314	22uF	100V	analog board	EL
+Computer	Osborne	Osborne 1	C318	1500uF	25V	analog board	EL
+Computer	Osborne	Osborne 1	C312	22uF	25V	analog board	BP HF
+Computer	Osborne	Osborne 1	C6	100uF	250V	PSU	EL
+Computer	Osborne	Osborne 1	C7	100uF	250V	PSU	EL
+Computer	Osborne	Osborne 1	C8	220uF	10V	PSU	EL
+Computer	Osborne	Osborne 1	C18	330uF	16V	PSU	EL
+Computer	Osborne	Osborne 1	C19	330uF	16V	PSU	EL
+Computer	Osborne	Osborne 1	C17	1000uF	25V	PSU	EL
+Computer	Osborne	Osborne 1	C16	1000uF	25V	PSU	EL
+Computer	Osborne	Osborne 1	C15	1000uF	25V	PSU	EL
+Computer	Osborne	Osborne 1	C21	2200uF	16V	PSU	EL
+Computer	Osborne	Osborne 1	C20	470uF	25V	PSU	EL
+Computer	Osborne	Osborne 1	C12	22uF	16V	motherboard	EL
+Computer	Osborne	Osborne 1	C30	22uF	16V	motherboard	EL
+Computer	Osborne	Osborne 1	C1	22uF	16V	double dentity board	EL
+Computer	Osborne	Osborne 1	C17	47uF	10V	double dentity board	EL
+TV	Philips	Discoverer	2001	680uF	16V	analog board	EL
+TV	Philips	Discoverer	2002	1uF	50V	analog board	EL
+TV	Philips	Discoverer	2003	1uF	50V	analog board	EL
+TV	Philips	Discoverer	2004	1uF	50V	analog board	EL
+TV	Philips	Discoverer	2027	100uF	16V	analog board	EL
+TV	Philips	Discoverer	2030	47uF	16V	analog board	EL
+TV	Philips	Discoverer	2044	10uF	50V	analog board	EL
+TV	Philips	Discoverer	2051	10uF	50V	analog board	EL
+TV	Philips	Discoverer	2058	47uF	160V	analog board	EL
+TV	Philips	Discoverer	2060	680uF	16V	analog board	EL
+TV	Philips	Discoverer	2100	220uF	16V	analog board	EL
+TV	Philips	Discoverer	2311	1uF	50V	analog board	EL
+TV	Philips	Discoverer	2315	1000uF	16V	analog board	EL
+TV	Philips	Discoverer	2317	4.7uF	50V	analog board	EL
+TV	Philips	Discoverer	2323	1uF	50V	analog board	EL
+TV	Philips	Discoverer	2324	22uF	50V	analog board	EL
+TV	Philips	Discoverer	2328	10uF	50V	add-on card	EL
+TV	Philips	Discoverer	2329	1uF	50V	analog board	EL
+TV	Philips	Discoverer	2343	1uF	63V	add-on card	EL
+TV	Philips	Discoverer	2344	47uF	25V	add-on card	EL
+TV	Philips	Discoverer	2505	22uF	25V	analog board	EL
+TV	Philips	Discoverer	2515	22uF	50V	analog board	EL
+TV	Philips	Discoverer	2517	470uF	35V	analog board	EL
+TV	Philips	Discoverer	2523	10uF	63V	analog board	EL
+TV	Philips	Discoverer	2531	47uF	160V	analog board	EL
+TV	Philips	Discoverer	2534	10uF	100V	analog board	EL
+TV	Philips	Discoverer	2536	4.7uF	250V	analog board	EL
+TV	Philips	Discoverer	2540	220uF	35V	analog board	EL
+TV	Philips	Discoverer	2542	220uF	25V	analog board	EL
+TV	Philips	Discoverer	2544	220uF	16V	analog board	EL
+TV	Philips	Discoverer	2606	68uF	385V	analog board	EL
+TV	Philips	Discoverer	2629	22uF	25V	analog board	EL
+TV	Philips	Discoverer	2636	1000uF	16V	analog board	EL
+TV	Philips	Discoverer	2660	47uF	160V	analog board	EL
+TV	Philips	Discoverer	2674	220uF	10V	analog board	EL
+TV	Philips	Discoverer	2702	10uF	63V	analog board	EL
+TV	Philips	Discoverer	2755	100uF	16V	analog board	EL
+TV	Philips	Discoverer	2785	100uF	16V	analog board	EL
+TV	Philips	Discoverer	2787	100uF	10V	analog board	EL
+TV	Philips	Discoverer	9514	1500uF	25V	analog board	EL
+Laptop	Amstrad	ALT-386SX	C6	100uF	400V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C21	1000uF	25V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C22	1000uF	25V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C25	680uF	35V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C26	680uF	35V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C29	1000uF	25V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C30	100uF	25V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C31	1000uF	25V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C32	1000uF	25V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C33	470uF	10V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C34	47uF	35V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C35	33uF	35V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C36	47uF	50V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C37	33uF	35V	PSU	EL
+Laptop	Amstrad	ALT-386SX	C54	10uF	50V	PSU	EL
+Computer	Schneider	Euro PC II	C300	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C301	4.7uF	63V	motherboard	EL
+Computer	Schneider	Euro PC II	C303	10uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C304	10uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C305	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C306	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C307	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C308	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C309	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C310	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C311	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C312	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C313	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C400	3300uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C401	4700uF	6.3V	motherboard	EL
+Computer	Schneider	Euro PC II	C402	47uF	25V	motherboard	EL
+Computer	Schneider	Euro PC II	C403	10uF	25V	motherboard	EL
+Computer	Sony	HB75P	C001	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C002	0.47uF	50V	motherboard	EL
+Computer	Sony	HB75P	C003	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C004	470uF	6.3V	motherboard	EL
+Computer	Sony	HB75P	C005	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C006	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C007	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C008	10uF	16V	motherboard	EL
+Computer	Sony	HB75P	C009	10uF	16V	motherboard	EL
+Computer	Sony	HB75P	C010	470uF	10V	motherboard	EL
+Computer	Sony	HB75P	C014	10uF	16V	motherboard	EL
+Computer	Sony	HB75P	C018	10uF	16V	motherboard	EL
+Computer	Sony	HB75P	C019	10uF	16V	motherboard	EL
+Computer	Sony	HB75P	C022	0.47uF	50V	motherboard	EL
+Computer	Sony	HB75P	C027	100uF	6.3V	motherboard	EL
+Computer	Sony	HB75P	C030	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C031	22uF	25V	motherboard	EL
+Computer	Sony	HB75P	C034	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C041	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C042	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C044	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C045	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C049	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C052	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C054	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C055	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C057	220uF	6.3V	motherboard	EL
+Computer	Sony	HB75P	C059	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C060	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C061	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C062	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C063	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C064	4.7uF	25V	motherboard	EL
+Computer	Sony	HB75P	C068	47uF	16V	motherboard	EL
+Computer	Sony	HB75P	C073	470uF	6.3V	motherboard	EL
+Computer	Sony	HB75P	C1	10000uF	16V	PSU	EL
+Computer	Sony	HB75P	C2	3300uF	25V	PSU	EL
+Computer	Sony	HB75P	C3	330uF	35V	PSU	EL
+Computer	Sony	HB75P	C4	47uF	16V	PSU	EL
+Computer	Sony	HB75P	C6	47uF	16V	PSU	EL
+Computer	Sony	HB75P	C7	47uF	16V	PSU	EL
+Computer	Sony	HB75P	C8	47uF	16V	PSU	EL
+Computer	Thomson	TO7-70	C02	1uF	50V	motherboard	EL
+Computer	Thomson	TO7-70	C12	4.7uF	50V	motherboard	EL
+Computer	Thomson	TO7-70	C23	1000uF	16V	motherboard	EL
+Computer	Thomson	TO7-70	C24	220uF	16V	motherboard	EL
+Computer	Thomson	TO7-70	C25	220uF	16V	motherboard	EL
+Computer	Thomson	TO7-70	CP??	100uF	385V	PSU	EL
+Computer	Thomson	TO7-70	CP14	220uF	35V	PSU	EL
+Computer	Thomson	TO7-70	CP16	1uF	50V	PSU	EL
+Computer	Thomson	TO7-70	CP18	22uF	25V	PSU	EL
+Computer	Thomson	TO7-70	CP19	1000uF	16V	PSU	EL
+Computer	Thomson	TO7-70	CP22	220uF	35V	PSU	EL
+Computer	Thomson	TO7-70	CP27	220uF	25V	PSU	EL
+Computer	Thomson	TO7-70	CP28	100uF	25V	PSU	EL
+Computer	Thomson	TO7-70	CP29	22uF	16V	PSU	EL
+FDD	Timex	FDD-3000	C16	10uF	50V	motherboard	EL
+FDD	Timex	FDD-3000	C23	10uF	50V	motherboard	EL
+FDD	Timex	FDD-3000	C24	10uF	50V	motherboard	EL
+FDD	Timex	FDD-3000	C25	10uF	50V	motherboard	EL
+FDD	Timex	FDD-3000	C26	10uF	50V	motherboard	EL
+FDD	Timex	FDD-3000	C29	470uF	25V	motherboard	EL
+FDD	Timex	FDD-3000	C30	100uF	63V	motherboard	EL
+FDD	Timex	FDD-3000	C32	100uF	25V	motherboard	EL
+FDD	Timex	FDD-3000	C33	4700uF	25V	motherboard	EL
+FDD	Timex	FDD-3000	C34	4700uF	25V	motherboard	EL
+FDD	Timex	FDD-3000	C38	1000uF	16V	motherboard	EL
+FDD	Timex	FDD-3000	C39	100uF	63V	motherboard	EL
